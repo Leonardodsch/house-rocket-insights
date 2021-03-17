@@ -58,13 +58,13 @@ Esse conjunto de dados contém casas vendidas entre Maio de 2014 e Maio de 2015.
 
 **sqft_lot15** - Medida (em pés quadrado) dos lotes de terra dos 15 vizinhos mais próximo
 
-# Premissas
+## Premissas
 Para execução do projeto foram assumidas algumas premissas, tais como:
 1. Os outliers encontrados na variável 'price' foram analisados e como se encontravam em pequena quantidade não se mostraram um fator que atrapalhasse o valor das médias e medianas calculadas e por acabaram sendo incluidos nos calculos;
 2. A culuna 'price' foi considerada como o valor atual do imóvel, como se ele estivesse disponivel a venda.
 3. As colunas sqft_livining15 e sqft_lot15 não foram consideradas duranta a analise e exploração dos dados.
 
-# Planejamenot da solução
+## Planejamenot da solução
 1. Coleta dos dados
 2. Entendimento do negócio e problemas e serem resolvidos
 3. Limpeza e tratamento dos dados
@@ -73,7 +73,7 @@ Para execução do projeto foram assumidas algumas premissas, tais como:
 6. Resultados obtidos
 7. Conclusão
 
-# Melhores insights
+## Melhores insights
 Os insights podem ajudar o time de negócios na tomada de decisão, insights valiosos podem fazer a diferença entre fazer um bom negócio ou não. Diante disso alguns insights econtrados a partir da analise e exploração dos dados foram:
 1. Imóveis com vista para a água são 200% mais caros na média
 2. Imóveis com data de construção menor do que 1955 são aproximadamente 1,6% mais baratos
@@ -81,7 +81,7 @@ Os insights podem ajudar o time de negócios na tomada de decisão, insights val
 4. Imóveis com condition igual ou maior do que 4 são 0,5% mais caros, na média
 5. Imóveis sem porão possuem uma area total 23% maior
 
-# Resultados
+## Resultados
 
 
 

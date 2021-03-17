@@ -71,15 +71,22 @@ Para execução do projeto foram assumidas algumas premissas, tais como:
 4. Exploração dos dados buscando responder as perguntas de negócio
 
    -- Agrupar os imóveis por região ( zipcode ).
+   
    -- Dentro de cada região, eu vou encontrar a mediana do preço do imóvel.
+   
    -- Sugerir os imóveis que estão abaixo do preço mediano da região e que estejam e boas condições.
+   
    -- Agrupar os imóveis por região ( zipcode ) e por sazonalidade ( Summer, Winter ).
+   
    -- Dentro de cada região e sazonalidade, calcular a mediana do preco.
+   
    -- Condições de venda:
-     - Se o preço da compra for maior que a mediana da região + sazonalidade.
+   
+     	- Se o preço da compra for maior que a mediana da região + sazonalidade.
             O preço da venda será igual ao preço da compra + 10%
-	    - Se o preço da compra for menor que a mediana da região + sazonalidade.
-		         	O preço da venda será igual ao preço da compra + 30%
+	    
+      	- Se o preço da compra for menor que a mediana da região + sazonalidade.
+	    O preço da venda será igual ao preço da compra + 30%
             
 5. Criação de hipóteses para geração de insights
 6. Resultados obtidos

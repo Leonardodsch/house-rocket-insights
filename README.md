@@ -64,11 +64,23 @@ Para execução do projeto foram assumidas algumas premissas, tais como:
 2. A culuna 'price' foi considerada como o valor atual do imóvel, como se ele estivesse disponivel a venda.
 3. As colunas sqft_livining15 e sqft_lot15 não foram consideradas duranta a analise e exploração dos dados.
 
-## Planejamenot da solução
+## Planejamento da solução
 1. Coleta dos dados
 2. Entendimento do negócio e problemas e serem resolvidos
 3. Limpeza e tratamento dos dados
 4. Exploração dos dados buscando responder as perguntas de negócio
+
+   -- Agrupar os imóveis por região ( zipcode ).
+   -- Dentro de cada região, eu vou encontrar a mediana do preço do imóvel.
+   -- Sugerir os imóveis que estão abaixo do preço mediano da região e que estejam e boas condições.
+   -- Agrupar os imóveis por região ( zipcode ) e por sazonalidade ( Summer, Winter ).
+   -- Dentro de cada região e sazonalidade, calcular a mediana do preco.
+   -- Condições de venda:
+     - Se o preço da compra for maior que a mediana da região + sazonalidade.
+            O preço da venda será igual ao preço da compra + 10%
+	    - Se o preço da compra for menor que a mediana da região + sazonalidade.
+		         	O preço da venda será igual ao preço da compra + 30%
+            
 5. Criação de hipóteses para geração de insights
 6. Resultados obtidos
 7. Conclusão

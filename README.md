@@ -102,9 +102,19 @@ Os insights podem ajudar o time de negócios na tomada de decisão, insights val
 
 ## Resultados
 
+Após toda a exploração e análise feita e seguindo as regra de negócio de venda definidas, os resultados finaceiros foram os seguintes:
 
+O lucro total com a venda dos imóveis que foram recomendados para compra a partir do mediana de preço de cada região e de condoção foi de $ 376.310.918.5
 
+Os resultdos considerando a variavel mediana por região e a estação do ano foram os seguintes:
 
+A soma do lucro por estação do ano foi de:
+
+![image](https://user-images.githubusercontent.com/76128123/111724241-a9ed0000-8843-11eb-9fda-497b12c5f9eb.png)
+
+![image](https://user-images.githubusercontent.com/76128123/111724105-6b574580-8843-11eb-8655-7e6bfdaab104.png)
+
+Considerando a soma total para todas as estações temos o valor de $ 1.976.821.731.6
 
 
 

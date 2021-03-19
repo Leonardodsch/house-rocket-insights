@@ -3,6 +3,11 @@
 
 Disclaimer: O Contexto a seguir, é completamente fictício, a empresa, o contexto, o CEO, as perguntas de negócio foram criadas apenas para o desenvolvimento do projeto, e se baseiam no projeto do site https://sejaumdatascientist.com/.
 
+<p align="center">
+  <img width="1100" height="450" src="https://user-images.githubusercontent.com/76128123/111823321-93868900-88c3-11eb-9bf2-d52afd1ca128.png" />
+</p>
+
+
 ## Contexto de negócio
 
 A House Rocket é uma empresa focada na compra e venda de imóveis, buscando avaliar e encontrar bons negócios para constituir seu portfólio e oferecer também bons negocios para seus clientes. O CEO da House Rocket gostaria de maximizar a receita da empresa encontrando boas oportunidades de negócio.
@@ -90,7 +95,8 @@ Para execução do projeto foram assumidas algumas premissas, tais como:
             
 5. Criação de hipóteses para geração de insights
 6. Resultados obtidos
-7. Conclusão
+7. Criação do web app usando streamlit com o demonstrativo dos resultados
+8. Conclusão
 
 ## Melhores insights
 Os insights podem ajudar o time de negócios na tomada de decisão, insights valiosos podem fazer a diferença entre fazer um bom negócio ou não. Diante disso alguns insights econtrados a partir da analise e exploração dos dados foram:
@@ -116,5 +122,9 @@ A soma do lucro por estação do ano foi de:
 
 Considerando a soma total para todas as estações temos o valor de $ 1.976.821.731.6
 
+# Conclusões
 
+Após buscar um entedimento do negócio, explorar e analisar os dados e partindo das perguntas feitas pelo CEO, foi possivel buscar as soluções a partir das premissas criadas e
+obter insights, através de uma analise exploratória, que podem ajudar o time de negócios a tomar melhores decisões sobre quais imóveis comprar. Os resultados financeiros encontrados são decorrencia do estudo e entendimento dos dados e podem ser maximizados caso esse estudo seja aplicado em todas as tomadas de decisão da empresa. Como próximos passos, seria possivel explorar ainda mais o conjunto de dados para obtenção de outros insights que pudessem ser relevantes de alguma forma. Outra abordagem seria trabalhar esses dados para serem utilizados em algoritimos de machine learning que possam prever por qual valor cada imóvel deveria ser vendido, garantindo assim um resultado mais acertivo e que possa trazer um retorno positivo ainda maior para a empresa.
+De uma forma geral as perguntas feitas pelo CEO puderam ser respondidas e diversos insights foram descobertos que podem se tornar algo de valor em futuras decisões tomadas pela House Rocket. 
 

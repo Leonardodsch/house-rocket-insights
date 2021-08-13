@@ -157,6 +157,9 @@ Considerando a soma total para todas as estações temos o valor de $ 1.976.821.
 # Conclusões
 
 Após buscar um entedimento do negócio, explorar e analisar os dados e partindo das perguntas feitas pelo CEO, foi possivel buscar as soluções a partir das premissas criadas e
-obter insights, através de uma analise exploratória, que podem ajudar o time de negócios a tomar melhores decisões sobre quais imóveis comprar. Os resultados financeiros encontrados são decorrencia do estudo e entendimento dos dados e podem ser maximizados caso esse estudo seja aplicado em todas as tomadas de decisão da empresa. Como próximos passos, seria possivel explorar ainda mais o conjunto de dados para obtenção de outros insights que pudessem ser relevantes de alguma forma. Outra abordagem seria trabalhar esses dados para serem utilizados em algoritimos de machine learning que possam prever por qual valor cada imóvel deveria ser vendido, garantindo assim um resultado mais acertivo e que possa trazer um retorno positivo ainda maior para a empresa.
+obter insights, através de uma analise exploratória, que podem ajudar o time de negócios a tomar melhores decisões sobre quais imóveis comprar. Os resultados financeiros encontrados são decorrencia do estudo e entendimento dos dados e podem ser maximizados caso esse estudo seja aplicado em todas as tomadas de decisão da empresa. 
+
+Como próximos passos, seria possivel explorar ainda mais o conjunto de dados para obtenção de outros insights que pudessem ser relevantes de alguma forma. Outra abordagem seria trabalhar esses dados para serem utilizados em algoritimos de machine learning que possam prever por qual valor cada imóvel deveria ser vendido, garantindo assim um resultado mais acertivo e que possa trazer um retorno positivo ainda maior para a empresa.
+
 De uma forma geral as perguntas feitas pelo CEO puderam ser respondidas e diversos insights foram descobertos que podem se tornar algo de valor em futuras decisões tomadas pela House Rocket. 
 

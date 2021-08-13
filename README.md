@@ -118,7 +118,10 @@ A soma do lucro por estação do ano foi de:
 
 ![image](https://user-images.githubusercontent.com/76128123/111724241-a9ed0000-8843-11eb-9fda-497b12c5f9eb.png)
 
-![image](https://user-images.githubusercontent.com/76128123/111724105-6b574580-8843-11eb-8655-7e6bfdaab104.png)
+<p align="left">
+  <img width="650" height="400" src="https://user-images.githubusercontent.com/76128123/111724105-6b574580-8843-11eb-8655-7e6bfdaab104.png"/>
+</p>
+
 
 Considerando a soma total para todas as estações temos o valor de $ 1.976.821.731.6
 

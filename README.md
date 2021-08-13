@@ -11,7 +11,9 @@ Disclaimer: O Contexto a seguir, é completamente fictício, a empresa, o contex
 ## Contexto de negócio
 
 A House Rocket é uma empresa focada na compra e venda de imóveis, buscando avaliar e encontrar bons negócios para constituir seu portfólio e oferecer também bons negocios para seus clientes. O CEO da House Rocket gostaria de maximizar a receita da empresa encontrando boas oportunidades de negócio.
+
 A principal estratégia é comprar boas casas em ótimas localizações com preços baixos e depois revendê-las posteriormente à preços mais altos. Quanto maior a diferença entre a compra e a venda, maior o lucro da empresa e portanto maior sua receita. Entretanto, as casas possuem muitos atributos que as tornam mais ou menos atrativas aos compradores e vendedores e a localização e o período do ano também podem influenciar os preços.
+
 Diante disso foi realizada uma análise onde diversos imóveis foram explorados e avaliados buscando o que poderia se tornar uma boa oportunidade para a empresa e alguns insights interessantes foram descobertos, algo que se tornará de extremo valor caso seja bem utilizado. Nenhum algoritimo de machine learning foi utilizado, os insights e recomendações forma feitas utilizando apenas a análise e exploração dos dados. Nesse processo buscou-se responder as perguntas abaixo. 
 
  1. Quais casas o CEO da House Rocket deveria comprar e por qual preço de compra?
@@ -100,11 +102,38 @@ Para execução do projeto foram assumidas algumas premissas, tais como:
 
 ## Melhores insights
 Os insights podem ajudar o time de negócios na tomada de decisão, insights valiosos podem fazer a diferença entre fazer um bom negócio ou não. Diante disso alguns insights econtrados a partir da analise e exploração dos dados foram:
-1. Imóveis com vista para a água são 200% mais caros na média
-2. Imóveis com data de construção menor do que 1955 são aproximadamente 1,6% mais baratos
-3. Imóveis com 3 ou mais banheiros são 100% mais caros na média
-4. Imóveis com condition igual ou maior do que 4 são 0,5% mais caros, na média
-5. Imóveis sem porão possuem uma area total 23% maior
+
+**1. Imóveis com vista para a água são 200% mais caros na média**
+
+<p align="center">
+  <img width="650" height="400" src="https://user-images.githubusercontent.com/76128123/129404439-71465834-7bb4-4e8d-9ae4-f7ae44b1a6d3.png" />
+</p>
+
+
+**2. Imóveis com data de construção menor do que 1955 são aproximadamente 1,6% mais baratos**
+
+<p align="center">
+  <img width="650" height="400" src="https://user-images.githubusercontent.com/76128123/129404634-5a9904b8-7d70-427b-be45-6e5d695fae77.png" />
+</p>
+
+**3. Imóveis com 3 ou mais banheiros são 100% mais caros na média**
+
+<p align="center">
+  <img width="650" height="400" src="https://user-images.githubusercontent.com/76128123/129404834-1fb89c8d-1e05-4d19-bca0-5ffacf8e5a89.png" />
+</p>
+
+**4. Imóveis com condition igual ou maior do que 4 são 0,5% mais caros, na média**
+
+<p align="center">
+  <img width="650" height="400" src="https://user-images.githubusercontent.com/76128123/129404973-06c96bcf-273f-4b8c-b955-ab3c7eedd624.png" />
+</p>
+
+**5. Imóveis sem porão possuem uma area total 23% maior**
+
+<p align="center">
+  <img width="650" height="400" src="https://user-images.githubusercontent.com/76128123/129405079-fb696338-f693-4467-a5ee-3c1509c1b2ff.png" />
+</p>
+
 
 ## Resultados
 

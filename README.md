@@ -1,3 +1,5 @@
+ - Link para o notebook através do nbviewer (Recomendado para uma melhor visualização): https://nbviewer.jupyter.org/github/Leonardodsch/house-rocket-insights/blob/main/house_rocket_insights.ipynb
+ 
 # House Rocket Insights
 
 

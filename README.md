@@ -142,6 +142,10 @@ Os insights podem ajudar o time de negócios na tomada de decisão, insights val
 
 ## Resultados
 
+- O deshboard contruido no streamlit com os resultados e as análises pode ser conferido através do link: [![image](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://house-rocke-analysis-viz.herokuapp.com/)
+
+### Retorno Financeiro
+
 Após toda a exploração e análise feita e seguindo as regra de negócio de venda definidas, os resultados finaceiros foram os seguintes:
 
 O lucro total com a venda dos imóveis que foram recomendados para compra a partir do mediana de preço de cada região e de condoção foi de $ 376.310.918.5
